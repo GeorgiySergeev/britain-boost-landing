@@ -1,2 +1,2 @@
 White page template
-[preview] ((preview.png)) 
+![preview](preview.png)
