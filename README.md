@@ -1,0 +1,1 @@
+White page template
